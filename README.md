@@ -1,5 +1,11 @@
-# Raininsun portfolio website
+# Raininsun Portfolio
+A static website adapted from the linked Figma file.
 
-Complete static website exported from the supplied Figma design, including HTML, CSS, images, and supporting assets.
+## Pages
+- Open `index.html` for About Me.
+- Open `work.html` for My Work.
+- Open `iris.html` for the IRIS project details.
 
-Open `index.html` locally, or enable GitHub Pages from the `main` branch to publish it.
+The pages use plain HTML and CSS, with all images stored locally in `assets/`. No package installation or build step is needed. To preview locally, open `index.html` in a browser.
+
+Source design: https://www.figma.com/design/xkN3kmyJptPdEeKWESzqpR/最终稿
